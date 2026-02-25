@@ -1,4 +1,4 @@
-## Dashboard Corporativo Integrado — Financeiro, RH e Controladoria
+## Dashboard Corporativo — Financeiro, RH e Controladoria
 
 Este projeto consiste no desenvolvimento de um **painel analítico corporativo em Power BI** integrado a um sistema ERP, projetado para monitoramento operacional e estratégico de uma empresa do setor de **construção civil**. A solução permite acompanhamento diário de indicadores críticos por meio de atualização automatizada via API.
 
